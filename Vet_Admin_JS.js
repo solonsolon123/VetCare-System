@@ -686,5 +686,5 @@ document.getElementById('cancelBtn').addEventListener('click', function() {
 // Logout function
 function logout() {
     localStorage.clear();
-    window.location.href = 'Vet_log_HTML.html';
+    window.location.href = 'index.html';
 }
